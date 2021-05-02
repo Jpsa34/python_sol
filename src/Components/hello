@@ -1,0 +1,54 @@
+                <input
+                  type="checkbox"
+                  id="Consulting"
+                  name="Consulting"
+                  value="Consulting"
+                ></input>
+                <label for="Consulting">Consulting</label>
+                <input
+                  type="checkbox"
+                  id="Web_Development"
+                  name="Web_Development"
+                  value="Web_Development"
+                ></input>
+                <label for="Web_Development">Web Development</label>
+                <input
+                  type="checkbox"
+                  id="Design"
+                  name="Design"
+                  value="Design"
+                ></input>
+                <label for="Design">Design</label>
+                <input
+                  type="checkbox"
+                  id="CloudandDevOps"
+                  name="CloudandDevOps"
+                  value="CloudandDevOps"
+                ></input>
+                <label for="CloudandDevOps">Cloud and DevOps</label>
+                <input
+                  type="checkbox"
+                  id="Mobile_Development"
+                  name="Mobile_Development"
+                  value="Mobile_Development"
+                ></input>
+                <label for="Mobile_Development">Mobile Development</label>
+                <input
+                  type="checkbox"
+                  id="Quality_Assurance"
+                  name="Quality_Assurance"
+                  value="Quality_Assurance"
+                ></input>
+                <label for="Quality_Assurance">Quality Assurance</label>
+                <label>Message*</label>
+                <input type="text" name="cname"></input>=
+                <div>
+                  <p>
+                    By Ticking the checkboxes and confirming with "Submit you
+                    agree with processing your personal data for the purpose of
+                    entering a pre-contractual relationship. For more
+                    information on how we are commited to protect and respect
+                    your privacy, please check our <a> Privacy Policy</a>
+                  </p>
+                </div>
+                <input type="submit"></input>
